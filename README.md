@@ -5,5 +5,8 @@
 ### [Visit the game](https://github.com/boraxphenom)
 
 > Instructions: Just clone the project and run the index.html
+
 > Gameplay: Use your keyboard keys:
+
+
 > w, a, s, d, j, k and l.
