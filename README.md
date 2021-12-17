@@ -1,2 +1,1 @@
-# drumkit-html-css-js
-Fun drum kit game!
+# ![](https://img.shields.io/static/v1?label=<LABEL>&message=GAME<MESSAGE>&color=blue<COLOR>) ![]
